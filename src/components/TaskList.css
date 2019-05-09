@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Architects+Daughter");
+
+.results {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.task {
+  margin: 0 auto;
+  width: 500px;
+  border-top: 1px solid #993366;
+}
+
+.taskNumber {
+  font-size: 17px;
+  font-family: "Architects Daughter", cursive;
+}
+
+.taskValue {
+  font-size: 12px;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  line-height: 200%;
+}
